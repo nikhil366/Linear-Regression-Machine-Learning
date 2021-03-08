@@ -1,6 +1,9 @@
 # Linear-Regression-Machine-Learning
 Here we will understand about Linear regression with Machine Learning and how we apply Statistics in Linear regression.
 
+# Linear Regression
+
+
 # Linear Regression Use :
 So to understand linear regression first of all we have to understand in which area or Industry we can use linear regression to solve Buisness Problems.
 1. Ecomerce Problem
@@ -27,5 +30,8 @@ So to understand linear regression first of all we have to understand in which a
 2. Data Collection
 3. Statistics on Data
 4. Exploratry Data Analysis
-5. train_test_split
-6. 
+5. Train_test_split
+6. Model Selection
+7. Check Accuracy
+8. Make Prediction
+9. Model Deploy
